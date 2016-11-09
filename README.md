@@ -1,4 +1,10 @@
 # Node-js-Example
 
 
-#Start server : npm start
+Load dependencies:
+
+	npm install
+Start Server:
+
+	npm start
+	
